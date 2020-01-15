@@ -1,2 +1,5 @@
 # hello-world
-training
+
+Hi everyone!
+My name is Xhuljano Racaku. I am trying to get used of Github.
+It looks pretty cool.
